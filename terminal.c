@@ -56,7 +56,7 @@ void type_prompt()
     first_time = 0;
   }
 
-  printf("𝔻𝕖𝕟𝕚𝕤:$$$ ");   //вывод приглашения
+  printf("𝕋𝕖𝕣𝕞𝕚𝕟𝕒𝕝⚠:$$$ ");   //вывод приглашения
 }
 
 int main()
